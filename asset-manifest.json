@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/figorate-about-react/static/css/main.75209aa0.css",
+    "main.js": "/figorate-about-react/static/js/main.f1b4a62d.js",
+    "static/js/453.26ed907b.chunk.js": "/figorate-about-react/static/js/453.26ed907b.chunk.js",
+    "static/media/afro.png": "/figorate-about-react/static/media/afro.67844a8f4d6ae5f9a89b.png",
+    "static/media/doc.png": "/figorate-about-react/static/media/doc.3b24085eb8479775e981.png",
+    "static/media/man.png": "/figorate-about-react/static/media/man.a61f41742497735f6231.png",
+    "static/media/fruit.png": "/figorate-about-react/static/media/fruit.c7ca7fb125d96d09794a.png",
+    "static/media/girls.png": "/figorate-about-react/static/media/girls.13eb501ba7a13df80260.png",
+    "index.html": "/figorate-about-react/index.html",
+    "main.75209aa0.css.map": "/figorate-about-react/static/css/main.75209aa0.css.map",
+    "main.f1b4a62d.js.map": "/figorate-about-react/static/js/main.f1b4a62d.js.map",
+    "453.26ed907b.chunk.js.map": "/figorate-about-react/static/js/453.26ed907b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75209aa0.css",
+    "static/js/main.f1b4a62d.js"
+  ]
+}
